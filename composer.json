@@ -1,0 +1,10 @@
+{
+    "name": "user/gallery",
+    "authors": [
+        {
+            "name": "User",
+            "email": "alekseykarpelev@gmail.com"
+        }
+    ],
+    "require": {}
+}
