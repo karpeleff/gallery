@@ -1,0 +1,19 @@
+{
+  "name": "gallery",
+  "version": "1.0.0",
+  "scripts": {
+    "bild": "webpack --mode production"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.4.4",
+    "axios": "^0.20.0",
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1",
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
